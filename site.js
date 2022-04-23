@@ -14,7 +14,7 @@ const vue_app = Vue.createApp({
       songs: [],
       title: "Josh's Playlist",
       owner: "Josh",
-      github: "https://github.com/122jcruz/CruzM-p3"
+      github: " https://122jcruz.github.io/JC-Playlist/"
     };
   },
   methods: {
